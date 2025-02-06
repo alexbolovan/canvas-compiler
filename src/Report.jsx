@@ -2,12 +2,12 @@ import './index.css'
 import Content from './Content.jsx'
 import Layout from './Layout.jsx'
 
-function Main() {
+function Report() {
   return (
     <Layout>
-      <Content />
+        <h1>Bug Report</h1>
     </Layout>
   )
 }
 
-export default Main;
+export default Report;
