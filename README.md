@@ -5,8 +5,6 @@
   <img src="https://github.com/alexbolovan/canvas-compiler/blob/master/docs/example.png" width="512" height="350" align="center">
 </p>
 
-Canvas Compiler
-
 Canvas Compiler is an online code compilation and annotation tool designed to provide a seamless experience for users to write, compile, and annotate code directly from their browser. Built using a serverless architecture on AWS, this project supports multiple programming languages and offers persistent storage for code and annotations.
 Features:
 
@@ -21,12 +19,8 @@ Features:
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
 * npm
   ```sh
   npm install npm@latest -g
@@ -63,11 +57,6 @@ Don't forget to give the project a star! Thanks again!
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## Contact
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/alexbolovan/canvas-compiler](https://github.com/alexbolovan/canvas-compiler)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
