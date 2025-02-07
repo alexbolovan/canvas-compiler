@@ -13,7 +13,7 @@ Features:
 * Annotation Functionality: Users can annotate their code for better collaboration and documentation.
 * Cloud-Based Storage: Utilizes AWS DynamoDB to store user code and annotations, ensuring fast and reliable data retrieval.
 * Serverless Architecture: Leverages AWS Lambda for executing user code, providing a scalable and cost-effective solution.
-* React Front-End: A modern, user-friendly interface built with React and TypeScript to enhance the user experience.
+* React Front-End: A modern, user-friendly interface built with React and JavaScript to enhance the user experience.
 
 
 <!-- GETTING STARTED -->
