@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Canvas Compiler
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/alexbolovan/CanvasCompiler/docs/example.png)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/alexbolovan/canvas-compiler/blob/master/docs/example.png)
 
 Canvas Compiler
 
