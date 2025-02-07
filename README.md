@@ -1,19 +1,21 @@
 <!-- ABOUT THE PROJECT -->
 ## Canvas Compiler
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/alexbolovan/canvas-compiler/blob/master/docs/example.png)
+<p align="center">
+  <img src="https://github.com/alexbolovan/canvas-compiler/blob/master/docs/example.png" width="512" height="350" align="center">
+</p>
 
 Canvas Compiler
 
 Canvas Compiler is an online code compilation and annotation tool designed to provide a seamless experience for users to write, compile, and annotate code directly from their browser. Built using a serverless architecture on AWS, this project supports multiple programming languages and offers persistent storage for code and annotations.
 Features:
 
-> * RESTful API: Built with AWS API Gateway, enabling a scalable and efficient backend for handling code compilation requests.
-> * Multi-Language Support: Provides compilation and execution capabilities for 5+ programming languages.
-> * Annotation Functionality: Users can annotate their code for better collaboration and documentation.
-> * Cloud-Based Storage: Utilizes AWS DynamoDB to store user code and annotations, ensuring fast and reliable data retrieval.
-> * Serverless Architecture: Leverages AWS Lambda for executing user code, providing a scalable and cost-effective solution.
-> * React Front-End: A modern, user-friendly interface built with React and TypeScript to enhance the user experience.
+* RESTful API: Built with AWS API Gateway, enabling a scalable and efficient backend for handling code compilation requests.
+* Multi-Language Support: Provides compilation and execution capabilities for 5+ programming languages.
+* Annotation Functionality: Users can annotate their code for better collaboration and documentation.
+* Cloud-Based Storage: Utilizes AWS DynamoDB to store user code and annotations, ensuring fast and reliable data retrieval.
+* Serverless Architecture: Leverages AWS Lambda for executing user code, providing a scalable and cost-effective solution.
+* React Front-End: A modern, user-friendly interface built with React and TypeScript to enhance the user experience.
 
 
 <!-- GETTING STARTED -->
@@ -30,12 +32,11 @@ This is an example of how to list things you need to use the software and how to
   npm install npm@latest -g
   ```
 
-### Installation
+### Installation & Usage
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/github_username/repo_name.git
    ```
@@ -43,47 +44,11 @@ _Below is an example of how you can instruct your audience on installing and set
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-5. Change git remote url to avoid accidental pushes to base project
+4. Run program
    ```sh
-   git remote set-url origin github_username/repo_name
-   git remote -v # confirm the changes
+   npm run dev
    ```
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -102,7 +67,7 @@ Don't forget to give the project a star! Thanks again!
 ## Contact
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/alexbolovan/canvas-compiler](https://github.com/alexbolovan/canvas-compiler)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
